@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AYE</title>
+    <title>The University</title>
 </head>
 <body>
 

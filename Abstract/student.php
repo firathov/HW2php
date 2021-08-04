@@ -4,6 +4,7 @@
     <p>Course: <input type="number", name="course"></p>
     <p>GradeBook: <input type="number", name="stGradeBook"></p>
     <input type="submit", value="Accept">
+    <input type="button" onclick="history.go(-1);" value="Back to the Menu">
 </form>
 <?php
 if(isset($_POST['stSurname']) && $_POST['course'] && $_POST['stGradeBook'])
